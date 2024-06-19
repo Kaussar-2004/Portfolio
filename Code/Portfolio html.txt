@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Name - Portfolio</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>KAUSSAR A</h1>
+            <p>Web Developer</p>
+        </div>
+    </header>
+
+    <section class="about-me">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Welcome to my portfolio! I am a passionate web developer with a focus on creating user-friendly and responsive websites.</p>
+        </div>
+    </section>
+
+    <section class="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project-card">
+                <img src="project 1.png" alt="Project 1">
+                <h3>Project 1</h3>
+                <p>Description of Project 1.</p>
+            </div>
+
+            <div class="project-card">
+                <img src="project 2.jpeg" alt="Project 2">
+                <h3>Project 2</h3>
+                <p>Description of Project 2.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="achievments">
+        <div class="container">
+            <h3>Achievments:</h3>
+            <p>designing a attendance management website for mini project in college.</p>
+            <p>won second prize in college hackathon.</p>
+        </div>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Feel free to reach out to me through the following channels:</p>
+            <ul>
+                <li>Email: kaussaradammalik@gmail.com</li>
+                <li>LinkedIn: linkedin.com/in/Kaussarkhan2004</li>
+                <li>GitHub: github.com/Kaussar-2004</li>
+            </ul>
+        </div>
+    </section>
+
+    
+</body>
+</html>
